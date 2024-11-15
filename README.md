@@ -1,4 +1,4 @@
-Expense Tracker Android App
+Personal Finance Management Application
 
 This is an Android application designed to help users track their daily expenses efficiently. The project is developed using Kotlin and leverages SQLite databases to store user data and transaction records. 
 
